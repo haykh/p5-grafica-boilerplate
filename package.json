@@ -1,0 +1,22 @@
+{
+  "name": "p5-boilerplate",
+  "version": "1.0.0",
+  "description": "simple p5 boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "morninbru",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.7.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
